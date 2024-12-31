@@ -1,0 +1,92 @@
+{
+  "uploadVideo": [
+    {
+      "id": "661f",
+      "caption": "demo",
+      "imgUrl": "https://www.macworld.com/wp-content/uploads/2023/01/learn_java_on_mac.jpg?quality=50&strip=all",
+      "youtubeLink": "https://www.youtube.com/embed/l9AzO1FMgM8"
+    },
+    {
+      "id": "c094",
+      "caption": "lofi",
+      "imgUrl": "https://i1.sndcdn.com/artworks-FdytyRF2SOGTHoWO-IlM3MA-t500x500.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/eow125xV5-c"
+    }
+  ],
+  "categories": [
+    {
+      "id": "85f0",
+      "categoryName": "tv",
+      "allVideos": [
+        {
+          "id": "b773",
+          "caption": "qulb",
+          "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjdjNjg1MzgtYWRiNy00MjM2LWFkMGMtMTEzNmE0NzlkYTI3XkEyXkFqcGc@._V1_.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/ZsnkLqBl0jA"
+        }
+      ]
+    },
+    {
+      "id": "ceae",
+      "categoryName": "trailor",
+      "allVideos": [
+        {
+          "caption": "demo",
+          "imgUrl": "https://wpdean.com/wp-content/uploads/2024/05/what-is-bootstrap.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/AY3Yea6hBbI",
+          "id": "NoHdaMF"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "4248",
+      "caption": "lofi",
+      "youtubeLink": "https://www.youtube.com/embed/AY3Yea6hBbI",
+      "timeStamp": "23/12/2024, 5:38:39 pm IST"
+    },
+    {
+      "id": "ace6",
+      "caption": "bootstrap",
+      "youtubeLink": "https://www.youtube.com/embed/AY3Yea6hBbI",
+      "timeStamp": "23/12/2024, 7:16:24 pm IST"
+    },
+    {
+      "id": "29af",
+      "caption": "lofi",
+      "youtubeLink": "https://www.youtube.com/embed/AY3Yea6hBbI",
+      "timeStamp": "23/12/2024, 7:16:36 pm IST"
+    },
+    {
+      "id": "c5ab",
+      "caption": "demo",
+      "youtubeLink": "https://www.youtube.com/embed/l9AzO1FMgM8",
+      "timeStamp": "23/12/2024, 7:16:43 pm IST"
+    },
+    {
+      "id": "8b0e",
+      "caption": "lofi",
+      "youtubeLink": "https://www.youtube.com/embed/eow125xV5-c",
+      "timeStamp": "23/12/2024, 8:53:07 pm IST"
+    },
+    {
+      "id": "79d9",
+      "caption": "java",
+      "youtubeLink": "https://www.youtube.com/embed/AY3Yea6hBbI",
+      "timeStamp": "23/12/2024, 8:53:53 pm IST"
+    },
+    {
+      "id": "3f28",
+      "caption": "lofi",
+      "youtubeLink": "https://www.youtube.com/embed/eow125xV5-c",
+      "timeStamp": "27/12/2024, 12:11:57 pm IST"
+    },
+    {
+      "caption": "demo",
+      "youtubeLink": "https://www.youtube.com/embed/l9AzO1FMgM8",
+      "timeStamp": "30/12/2024, 10:36:55 pm IST",
+      "id": "rHnBIpn"
+    }
+  ]
+}
